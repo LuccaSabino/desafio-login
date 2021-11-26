@@ -1,0 +1,59 @@
+/* Logo */
+
+.logo{
+    display: flex;
+    margin-top: 20%;
+    margin-left: 38%;
+    align-items: center;
+}
+
+.logo img{
+    display: inline-block;
+    width: 15%;
+}
+
+
+/* Parte de login */
+
+#botao{
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-left: 100px;
+    display: block;
+    height: 24px;
+    width: 54px;
+}
+
+input{
+    border-radius: 5px;
+    height: 25px;
+    width: 270px;
+}
+
+#check{
+    margin-top: 10px;
+    margin-left: -110px;
+    display: inline-block;
+}
+
+#caixa{
+    
+    margin-left: -114px;
+    display: inline-block;
+}
+
+label{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 4px;
+}
+
+.login{
+    background-color: rgb(227, 255, 255);
+    padding: 25px;
+    display: inline-block;
+    border-color: rgb(46, 158, 158);
+    border-radius: 18px;
+    border-style: solid;
+    margin-left: 40px;
+}
